@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+  <xpath>/Defs/ThoughtDef[defName="AteWithoutTable"]/stages</xpath>
+    <value>
+      <stages>
+        <li>
+          <label>Ate without table</label>
+          <description>Ate on the floor. It wasn't great, but it's not a big deal.</description>
+          <baseMoodEffect>0</baseMoodEffect>
+        </li>
+      </stages>
+    </value>
+  </Operation>
+</Patch>
