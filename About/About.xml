@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>You've Never Eaten Without a Table - 1.4 Update</name>
+  <name>You've Never Eaten Without a Table [1.4-1.5]</name>
   <author>GoldenLumia, Slaymeister(CodeHelp), Crlsniper(Original)</author>
   <url>https://github.com/GoldenLumia/AteWithoutTable</url>
-    <supportedVersions>
-  <li>1.4</li>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>goldenlumia.atewithouttable</packageId>
   <description>Removes the Ate without Table debuff. Credit to Crlsniper's original mod and Slaymeister for the updates.</description>

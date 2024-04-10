@@ -1,5 +1,5 @@
 # AteWithoutTable
-This is a fork of You've Never Eaten Without a Table updated to 1.4. I am not the original author of this mod. 
+This is a fork of You've Never Eaten Without a Table updated to 1.4 and 1.5. I am not the original author of this mod. 
 
 This fork moves the code to a patch instead of a replacement. This allows it to function more easily with the base game and other mods without weird things happening. 
 
